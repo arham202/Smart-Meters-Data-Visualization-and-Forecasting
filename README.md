@@ -54,3 +54,7 @@ Allows users to upload CSV data for personalized energy consumption forecasts.
 - Seaborn
 - Streamlit
 
+### Contribution
+- Arham Alam
+- Subhranshu Behura
+
